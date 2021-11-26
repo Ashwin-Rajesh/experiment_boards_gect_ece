@@ -2,6 +2,8 @@
 
 Linear series voltage regulator with feedback.
 
+---
+
 ### Schematic
 
 ![](docs/schematic.png)
@@ -21,3 +23,7 @@ Dimensions : ```135mm x 78mm```
 ![](docs/gerber.png)
 
 ---
+
+### 3D view
+
+![](docs/3d.png)
