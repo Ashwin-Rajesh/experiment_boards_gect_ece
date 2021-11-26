@@ -1,13 +1,23 @@
-## Feedback controlled voltage regulator
+# Feedback controlled voltage regulator
 
-#### Schematic
+Linear series voltage regulator with feedback.
+
+### Schematic
 
 ![](docs/schematic.png)
 
-#### PCB layout
+---
+
+### PCB layout
+
+Dimensions : ```135mm x 78mm```
 
 ![](docs/layout.png)
 
-#### Gerber file 
+---
+
+### Gerber file 
 
 ![](docs/gerber.png)
+
+---
