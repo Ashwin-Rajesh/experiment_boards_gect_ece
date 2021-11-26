@@ -2,12 +2,12 @@
 
 #### Schematic
 
-![](schematic.png)
+![](docs/schematic.png)
 
 #### PCB layout
 
-![](layout.png)
+![](docs/layout.png)
 
 #### Gerber file 
 
-![](gerber.png)
+![](docs/gerber.png)
